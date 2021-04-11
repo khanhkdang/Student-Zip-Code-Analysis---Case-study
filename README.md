@@ -19,3 +19,5 @@ Zip Code Database (Excel File): Raw Data, Clean Data, Dashboard
 Zip Code - Presentation (ppt)
 
 Zip Code - Report (Word Document) 
+
+Student Zipcode Map - Dynamic Video showing plotted location of student zipcodes (mp4)
