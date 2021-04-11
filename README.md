@@ -12,4 +12,10 @@ Recommendations: Offer better housing packages, increase the housing capacity, P
 
 FILES
 
+Convert Zip Code Data into Distance (pdf): Details case study
 
+Zip Code Database (Excel File): Raw Data, Clean Data, Dashboard
+
+Zip Code - Presentation (ppt)
+
+Zip Code - Report (Word Document) 
