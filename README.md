@@ -1,14 +1,10 @@
 # Student Zip Code Analysis
 
-The case study focuses on defining how far students are from campus (Atlanta or Macon) with a given standard data file including students' ID, students' state, and students' zip codes by using Excel.
+The case study focuses on understanding how far students are from university campus (Atlanta or Macon) with a given standard data file including students' ID, students' state, and students' zip codes by using Excel with the help of the Great circle distance formula
 
-Goals: Identifying local, regional, and far away students from the Atlanta campus, identifying students living near the Macon campus
+Goals: Identifying local, regional, and far away students from the Atlanta campus and Macon campus to offer better housing packages, increase the housing capacity, planning admission drives at local high schools for in-state students, offer scholarships for out of state students, onboard more International students 
 
 Stakeholders: Students, Analytics department, Marketing department, Professors and Staff.
-
-Model using great - circle distance formula
-
-Recommendations: Offer better housing packages, increase the housing capacity, Planning admission drives at local high schools for in-state students, offer scholarships for out of state students, onboard more International students
 
 # FILES
 
